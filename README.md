@@ -7,6 +7,7 @@ Overview This is a fully responsive travel website designed to showcase beautifu
 Features
 
 Responsive Design: Works seamlessly on all devices (desktop, tablet, mobile).
+
 Interactive Elements: Smooth animations and hover effects for a better user experience.
 Featured Destinations: Highlights popular travel destinations with images and descriptions.
 Travel Packages: Displays customizable travel packages with pricing and details.
